@@ -1,1 +1,2 @@
 this is file 1 in txt format
+this is the updated file of file1
